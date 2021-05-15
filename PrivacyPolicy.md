@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Email, Meals rating. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to email, meal's rating. Your meals rating will be collected and shared with the restaurant owners, in anonymized form, so that it is not assosiated with individual end users and does not include personal information.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -24,11 +24,9 @@ Link to privacy policy of third party service providers used by the app
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-**Cookies**
+**Mobile Device Access**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+We may request access or permission to certain features from your mobile device, including your mobile device’s camera, storage and other features. If you wish to change our access or permissions, you may do so in your device’s settings.
 
 **Service Providers**
 
