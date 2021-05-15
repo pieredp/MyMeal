@@ -64,4 +64,4 @@ This policy is effective as of 2021-05-14
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at MobileDome@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at MobileDome1@gmail.com.
